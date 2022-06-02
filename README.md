@@ -3,7 +3,7 @@ This bot monitors Solana networks Transfers Per Second (TPS) and reports it to u
 
 
 ## if an error occurs as shown in the picture, follow this command
-![image](https://user-images.githubusercontent.com/66939875/171587878-eeca2ed6-3b52-4193-92d8-8799af5fd269.png)
+![image](https://user-images.githubusercontent.com/66939875/171588478-2921b76d-6004-4139-a262-40367edfe610.png)
 
 ```java
 sudo npx playwright install-deps
